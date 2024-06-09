@@ -12,7 +12,7 @@ The database includes tables such as Customers (91 records), Categories (8 recor
 Feedback:
 If you have any questions, or suggestions, please don't hesitate to reach out. Your input is invaluable in improving this project for the SQL community.
 
-##snippet
+## Snippet
 ```
 --1.	How many customers do we have in each country?
 SELECT Country, COUNT(CustomerID) AS TotalCustomer
