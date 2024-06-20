@@ -9,10 +9,6 @@ Project Description:
 The database includes tables such as Customers (91 records), Categories (8 records), Employees (10 records), and more. To get started, I created a database named "wschool" and imported the tables into SQL Server Management Studio (SSMS). With the database set up, I proceeded to answer 15 questions, exploring various aspects of data manipulation and retrieval.
 [link to w3school DB](https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor)
 
-Feedback:
-If you have any questions, or suggestions, please don't hesitate to reach out. Your input is invaluable in improving this project for the SQL community.
-
-## Snippet
 ```
 --1.	How many customers do we have in each country?
 SELECT Country, COUNT(CustomerID) AS TotalCustomer
