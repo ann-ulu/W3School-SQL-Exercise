@@ -1,5 +1,5 @@
 # W3School-SQL-Exercise
-Questions designed to enhance SQL querying skills using the W3Schools sample database. 
+Exercise designed to enhance SQL querying skills using the W3Schools sample database. 
 
 
 ## Introduction
@@ -41,4 +41,4 @@ SELECT CustomerID, CustomerName, Yearr FROM (SELECT CustomerID, CustomerName, DA
 
 ```
 
-See the attached file for answers to the exercises
+See the attached file for answers to the each exercises
