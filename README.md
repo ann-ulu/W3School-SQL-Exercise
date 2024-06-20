@@ -1,5 +1,5 @@
 # W3School-SQL-Exercise
-Exercise designed to enhance SQL querying skills using the W3Schools sample database. 
+This exercise is designed to enhance SQL querying skills using the W3Schools sample database. 
 
 
 ## Introduction
